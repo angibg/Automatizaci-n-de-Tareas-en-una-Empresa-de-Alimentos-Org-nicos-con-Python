@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import sqlite3
 
 def conectar():
@@ -37,3 +38,6 @@ def obtener_inventario():
 
 # Inicializar la base de datos al importar el módulo
 inicializar_db()
+=======
+# database.py
+>>>>>>> a21880a (Initial commit)
