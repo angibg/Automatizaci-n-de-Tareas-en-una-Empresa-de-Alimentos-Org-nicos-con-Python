@@ -1,0 +1,5 @@
+Sistema_Inventario/
+├── database.py          # Lógica de conexión y creación de tablas
+├── generar_informe.py   # Tu script principal (el que imprime los datos)
+├── insertar_datos.py    # Script auxiliar para cargar productos nuevos
+└── inventario_organico.db  # Archivo que se genera solo (tu base de datos)
